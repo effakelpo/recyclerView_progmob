@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="m439.691,37.299c-56.748,-24.082 -118.564,-37.299 -183.691,-37.299s-126.943,13.217 -183.691,37.299c-43.418,18.398 -68.907,64.306 -62.022,111.621l43.389,298.861c5.303,36.621 37.207,64.219 74.209,64.219h256.23c37.002,0 68.906,-27.598 74.209,-64.189l43.389,-298.891c6.885,-47.315 -18.604,-93.223 -62.022,-111.621z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="512"
+          android:startX="256"
+          android:endY="0"
+          android:endX="256"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFD3A84"/>
+        <item android:offset="1" android:color="#FFFFA68D"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="m158.2,185.499c3.3,5.7 10.501,8.401 16.8,6.601 21,-6 43.5,-9.6 66,-10.8v-45.3c0,-8.401 6.599,-15 15,-15s15,6.599 15,15v45.3c43.414,2.314 63.913,11.4 70.201,11.4 5.099,0 9.899,-2.701 12.599,-7.202l48.9,-79.199c2.399,-3.9 2.999,-8.701 1.5,-12.902 -1.8,-4.199 -5.099,-7.5 -9.3,-9.3 -87.001,-30.599 -190.8,-30.599 -277.8,0 -4.2,1.8 -7.5,5.101 -9.3,9.3 -1.5,4.2 -0.899,9.001 1.5,12.902zM421.674,246.186c-2.842,-3.281 -6.973,-5.186 -11.338,-5.186h-308.672c-4.365,0 -8.496,1.904 -11.338,5.186 -2.871,3.311 -4.131,7.676 -3.516,11.982l26.25,181c1.084,7.354 7.412,12.832 14.854,12.832h256.172c7.441,0 13.77,-5.479 14.854,-12.832l26.25,-181c0.615,-4.307 -0.645,-8.672 -3.516,-11.982z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="452"
+          android:startX="256"
+          android:endY="61.15"
+          android:endX="256"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFFC2CC"/>
+        <item android:offset="1" android:color="#FFFFF2F4"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+</vector>
